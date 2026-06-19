@@ -58,7 +58,7 @@ def animated_metric(label, value, col):
 
 # Sidebar navigation
 st.sidebar.image(
-    "Dashboard/nhs_logo.png.png",
+    "Dashboard/nhs_logo.png",
     width=150
 )
 
