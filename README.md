@@ -30,7 +30,7 @@ It answers a single question that matters to every NHS budget holder:
 
 The dashboard has eight pages:
 
-- **Introduction** — the business question and how the analysis fits together.
+- **Introduction** - the business question and how the analysis fits together.
 - **Chapter 0 - Building the data.** How 12 monthly files became one clean 217-million-row dataset.
 - **Chapter 1 - What is the NHS prescribing?** Which drug categories cost the most versus which are prescribed most.
 - **Chapter 2 - Where is the money going?** Cost per prescription across 42 ICBs and 7 regions, with interactive maps of England.
@@ -46,7 +46,7 @@ The dashboard has eight pages:
 - The NHS spent **£10.54 billion** on primary care prescribing in 2025 across **1.27 billion** prescriptions.
 - **NHS Hampshire and Isle of Wight** is the most expensive ICB at £22.14 per prescription; **NHS North West London** is the cheapest at £18.04.
 - **288 GP practices** overspend every single month relative to their local peers.
-- The cause of geographic cost variation is **prescribing behaviour** — the choice between branded and generic drugs not procurement prices or patient volume.
+- The cause of geographic cost variation is **prescribing behaviour**, the choice between branded and generic drugs not procurement prices or patient volume.
 - A Random Forest model predicts practice-level cost with **95.4% accuracy** and identifies **2,417 at-risk practices**.
 
 ---
